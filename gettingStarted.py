@@ -1,4 +1,7 @@
-#Paola O'Rourke 
+### welcome_assignment_answers
+### Input - All nine questions given in the assignment.
+### Output - The right answer for the specific question.
+#Paola O'Rourke
 def welcome_assignment_answers(question):
     #Students do not have to follow the skeleton for this assignment.
     #Another way to implement is using a "case" statements similar to C.
